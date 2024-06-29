@@ -1,1 +1,2 @@
-console.log('HOLIS')
+let tittle = 'HOLA PUTOS'
+console.log(tittle)
